@@ -1,0 +1,2 @@
+# ParkingSystem
+In this project we tried building an application which would help minimize traffic congestion, limited parking and road safety would be addressed by IOT. Along with image processing various algorithm such as shortest path algorithm and searching algorithm will be used to provide nearest parking Lot and to navigate to empty parking slot. Sensors will be used to confirm the presence of vehicle.
